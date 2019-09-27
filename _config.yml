@@ -7,13 +7,11 @@ description: |
     Alhaurin de la Torre, Málaga
 
     29 Agosto, 2020
-owner: Carlos Alarcon # or company name
-first_published: 2020 # if migrating another site, the year of your first publish
+owner: Carlos Alarcon
+first_published: 2020
 email: jchuerva@gmail.com
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
-
-# google_analytics: UA-47395716-3
 
 social:
   #twitter: https://twitter.com/menzenski
@@ -58,5 +56,5 @@ social:
 
 # Build settings
 markdown: kramdown
-#sass:
-#  style: compressed
+permalink: pretty
+
