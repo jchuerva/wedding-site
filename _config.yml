@@ -9,15 +9,15 @@ description: |
     29 Agosto, 2020
 owner: Carlos Alarcon # or company name
 first_published: 2020 # if migrating another site, the year of your first publish
-email: matt.menzenski@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+email: jchuerva@gmail.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # google_analytics: UA-47395716-3
 
 social:
   #twitter: https://twitter.com/menzenski
-  github: https://github.com/menzenski/wedding-site
+  github: https://github.com/jchuerva/wedding-site
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
