@@ -2,7 +2,7 @@
 #
 
 # Site settings
-title: "Maria & Carlos"
+title: "María del Mar & Carlos"
 description: |
     Alhaurin de la Torre, Málaga
 
@@ -57,4 +57,3 @@ social:
 # Build settings
 markdown: kramdown
 permalink: pretty
-
